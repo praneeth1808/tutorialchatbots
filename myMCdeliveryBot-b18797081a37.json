@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mymcdeliverybot-51472",
+  "private_key_id": "b18797081a373422a863978e4a688800293ac901",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCt5DhhoG2FYpw6\npLMwLZCGOfhmW34phHYBNmwL3q5FpiNkWP7dRgDDPYhKdEKEuV3dpW9AoVmv3WQR\nKMdQ6Q8Gqkb+y3N1jKFYDr4QwkqmSGvvAXTvCi+uls+ktUTdqqYOui18AIF64Ku9\n1LP8fppet9rPewGkgVQoW38RBme89XAGZ35TpLS4X0nbdc+fRcAESi2uqBdZ3KqY\nNtQ21OWmlyBL4AXY0QbNlx0AZmgTRBqR0cQNMHJ1WWeKSG5/TmLQWCn8R8DpDevQ\nKzlt3C+Lib2dCiDzblCN0MA/gtUBKpFOMFFWRmtpFktaW5/SHHphzfrxwEi0Glrx\nFJs6QzThAgMBAAECggEAOC4rLxNrPvRogCPVBqQ59LvG7p7xqE006Nhh2QXlLPhr\np9B+6xNiTLHVFiTwlrviwSjhRDK87K4s1cRkfNYHNkKONGSb1WcNe4sryfNTtdxh\nDrNcSZxzYkc0J8UuziUDiG+LIWxyaLYslmShj9qBWkexKGZX1gO4ol9JMsFsg6YJ\ng7K68Fs5p4Lse/aVIqACLgtcK1IE0hORlb6AhknGKgdOOuk0iudlay/LIe9NJQzY\n06UET7iMdt4bmtUPaCIPwcidhZ5ZWV8tpXGZI8rrz3ziXk3l9wRxv4rtRdOdQwqA\nF5ewU2GAYEkbH9F7LZHvFFYqet8+ndj71bwXfb0cVwKBgQDjvbvMw3TFyyvBtVcl\nuAjmApkXOQjZR40JflAfIaFqCUTkP0HenkzGUn8LeHatecdVyxbsoW4Oa+CoYyTO\nlYGRjv1j4xAcF29UYXr9/UJMljqxEdbJyVTVRqzdLtyfd6dKs+VqCTsPZi1eUsda\nVM5LrTrwDmN+neCKxbF3EkeN5wKBgQDDd++UoSFVc62JuNghzyOxhUkCZ7EAeAZB\ncVbZrv1fPYWXnV33Ao/nPsonI+Gw1pTJwG0vJ0SS61Q3H1hDoSqQJjyolSKkkwhB\nyYi7MkLmS9zo2Z3qbcWKGeIMx9EivAMSWJhSDc6BIEEBxBBn0GP63qijdv3onteZ\nYNvYSKT99wKBgG+t+Uw+hSMBsOF7FdNPXj29BGnY9Dfo2IbRRGUfztH63ae4RYrv\nweJ3TgnH9xq230N5JjLALwIvcKnihIgx1KoWnre+/4VnEJcmfnPTIBICkaGHh/bI\nHivATsDgXBxvRsBhW50WDbpNdu4MVeo8MDX4KzDRPYU30ob6zz3+3sv9AoGACO+O\nsEi9cV6cbFNa7hC+HPtu3wFGgjL6djtsMP9i7duuI8Q563Tehz/Dlg553s+wdZiq\nZSFybRT9AJgaPN09SOG2nC5VKxjdo8RGz+f4Tvbg3nQ0V+c0xJ9ySgtIcEIQEeKi\n8/1Vl2mWDzKbXWOVbn6HTxG9gcjhKk3XPwfzIvkCgYEAjsUy0OhFtH+5kOau9fE2\nYNLR/NqZGoQzzgDMPy2M6zo7U9f6GTcGxWQuk1eR9fjZ/EG4YfbAP8VasdFvQTbo\n0UE75Mf0GQFVMLnmB5iEhl9S34Dxu2xUn3l7g8xqIU9wQHYqsNs6RDcmxUeDIhZ6\nk7QDLpMo/sGXPcUEnz9D71Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mymcdeliverybot-51472@appspot.gserviceaccount.com",
+  "client_id": "106735868667737991648",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mymcdeliverybot-51472%40appspot.gserviceaccount.com"
+}
